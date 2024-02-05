@@ -8,9 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 MY_EMAIL="mosehtario@gmail.com"
-# tariocreations@yahoo.com
 APP_PASSWORD=environ.get("APP_PASSWORD")
-# "usvvnkxjidibssrk"
 year=dt.datetime.today().year
 
 
